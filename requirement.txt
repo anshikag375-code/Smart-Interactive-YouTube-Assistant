@@ -1,8 +1,0 @@
-streamlit
-youtube-transcript-api
-langchain-core
-langchain-community
-langchain-huggingface
-sentence-transformers
-faiss-cpu
-langchain-google-genai
