@@ -1,11 +1,10 @@
 streamlit
+gTTS
 youtube-transcript-api
 langchain-core
+langchain-google-genai
+langchain-huggingface
 langchain-community
 langchain-text-splitters
-langchain-huggingface
-sentence-transformers
 faiss-cpu
-langchain-google-genai
-pydantic
-gtts
+sentence-transformers
